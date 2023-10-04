@@ -1,0 +1,383 @@
+2023-10-05 00:43:24,385 PID: 10940 [ MainThread ] Processed file: d:/tt\archives\damekon0.rar
+2023-10-05 00:43:24,408 PID: 10940 [ MainThread ] Processed file: d:/tt\archives\file.gz
+2023-10-05 00:43:24,419 PID: 10940 [ MainThread ] Processed file: d:/tt\archives\file.rar
+2023-10-05 00:43:24,426 PID: 10940 [ MainThread ] Processed file: d:/tt\archives\file.zip
+2023-10-05 00:43:24,428 PID: 10940 [ MainThread ] Processed file: d:/tt\archives\file0.rar
+2023-10-05 00:43:24,428 PID: 10940 [ MainThread ] Processed file: d:/tt\archives\file0.zip
+2023-10-05 00:43:24,442 PID: 10940 [ MainThread ] Processed file: d:/tt\archives\file_—_kopiya.zip
+2023-10-05 00:43:24,442 PID: 10940 [ MainThread ] Processed directory: d:/tt\archives
+2023-10-05 00:43:24,442 PID: 10940 [ MainThread ] Processed file: d:/tt\Audio\file.mp3
+2023-10-05 00:43:24,459 PID: 10940 [ MainThread ] Processed file: d:/tt\Audio\file.wav
+2023-10-05 00:43:24,463 PID: 10940 [ MainThread ] Processed directory: d:/tt\Audio
+2023-10-05 00:43:24,475 PID: 10940 [ MainThread ] Processed file: d:/tt\Documents\ampersant.docx
+2023-10-05 00:43:24,477 PID: 10940 [ MainThread ] Processed file: d:/tt\Documents\damekon0.txt
+2023-10-05 00:43:24,477 PID: 10940 [ MainThread ] Processed file: d:/tt\Documents\file.doc
+2023-10-05 00:43:24,477 PID: 10940 [ MainThread ] Processed file: d:/tt\Documents\file.pdf
+2023-10-05 00:43:24,494 PID: 10940 [ MainThread ] Processed file: d:/tt\Documents\file.pptx
+2023-10-05 00:43:24,494 PID: 10940 [ MainThread ] Processed file: d:/tt\Documents\file.txt
+2023-10-05 00:43:24,494 PID: 10940 [ MainThread ] Processed file: d:/tt\Documents\file.xlsx
+2023-10-05 00:43:24,509 PID: 10940 [ MainThread ] Processed file: d:/tt\Documents\file0.pdf
+2023-10-05 00:43:24,513 PID: 10940 [ MainThread ] Processed file: d:/tt\Documents\file0.txt
+2023-10-05 00:43:24,513 PID: 10940 [ MainThread ] Processed file: d:/tt\Documents\file_—_kopiya.pdf
+2023-10-05 00:43:24,524 PID: 10940 [ MainThread ] Processed file: d:/tt\Documents\karlibrejs.pdf
+2023-10-05 00:43:24,528 PID: 10940 [ MainThread ] Processed file: d:/tt\Documents\puntik.pdf
+2023-10-05 00:43:24,528 PID: 10940 [ MainThread ] Processed directory: d:/tt\Documents
+2023-10-05 00:43:24,542 PID: 10940 [ MainThread ] Processed file: d:/tt\Images\file.jpeg
+2023-10-05 00:43:24,542 PID: 10940 [ MainThread ] Processed file: d:/tt\Images\file.png
+2023-10-05 00:43:24,542 PID: 10940 [ MainThread ] Processed file: d:/tt\Images\file0.jpg
+2023-10-05 00:43:24,560 PID: 10940 [ MainThread ] Processed file: d:/tt\Images\luntik.png
+2023-10-05 00:43:24,560 PID: 10940 [ MainThread ] Processed file: d:/tt\Images\Probil.jpg
+2023-10-05 00:43:24,560 PID: 10940 [ MainThread ] Processed file: d:/tt\Images\Test.jpg
+2023-10-05 00:43:24,560 PID: 10940 [ MainThread ] Processed file: d:/tt\Images\Test.png
+2023-10-05 00:43:24,576 PID: 10940 [ MainThread ] Processed directory: d:/tt\Images
+2023-10-05 00:43:24,579 PID: 10940 [ MainThread ] Processed file: d:/tt\Other\file.amr
+2023-10-05 00:43:24,579 PID: 10940 [ MainThread ] Processed file: d:/tt\Other\file.avi
+2023-10-05 00:43:24,593 PID: 10940 [ MainThread ] Processed file: d:/tt\Other\file.mkv
+2023-10-05 00:43:24,593 PID: 10940 [ MainThread ] Processed file: d:/tt\Other\file.mov
+2023-10-05 00:43:24,593 PID: 10940 [ MainThread ] Processed file: d:/tt\Other\file.mp4
+2023-10-05 00:43:24,609 PID: 10940 [ MainThread ] Processed file: d:/tt\Other\file.ogg
+2023-10-05 00:43:24,613 PID: 10940 [ MainThread ] Processed file: d:/tt\Other\file.svg
+2023-10-05 00:43:24,613 PID: 10940 [ MainThread ] Processed file: d:/tt\Other\folding_structure_1.bat
+2023-10-05 00:43:24,613 PID: 10940 [ MainThread ] Processed directory: d:/tt\Other
+2023-10-05 00:43:24,657 PID: 10940 [ MainThread ] Moved file to d:/tt\rar\damekon0.rar
+2023-10-05 00:43:24,659 PID: 10940 [ MainThread ] Moved file to d:/tt\rar\file.rar
+2023-10-05 00:43:24,675 PID: 10940 [ MainThread ] Moved file to d:/tt\rar\file0.rar
+2023-10-05 00:43:24,723 PID: 10940 [ MainThread ] Moved file to d:/tt\gz\file.gz
+2023-10-05 00:43:24,760 PID: 10940 [ MainThread ] Moved file to d:/tt\zip\file.zip
+2023-10-05 00:43:24,775 PID: 10940 [ MainThread ] Moved file to d:/tt\zip\file0.zip
+2023-10-05 00:43:24,792 PID: 10940 [ MainThread ] Moved file to d:/tt\zip\file_—_kopiya.zip
+2023-10-05 00:43:24,825 PID: 10940 [ MainThread ] Moved file to d:/tt\mp3\file.mp3
+2023-10-05 00:43:24,875 PID: 10940 [ MainThread ] Moved file to d:/tt\wav\file.wav
+2023-10-05 00:43:24,914 PID: 10940 [ MainThread ] Moved file to d:/tt\docx\ampersant.docx
+2023-10-05 00:43:24,943 PID: 10940 [ MainThread ] Moved file to d:/tt\txt\damekon0.txt
+2023-10-05 00:43:24,959 PID: 10940 [ MainThread ] Moved file to d:/tt\txt\file.txt
+2023-10-05 00:43:24,975 PID: 10940 [ MainThread ] Moved file to d:/tt\txt\file0.txt
+2023-10-05 00:43:25,023 PID: 10940 [ MainThread ] Moved file to d:/tt\doc\file.doc
+2023-10-05 00:43:25,059 PID: 10940 [ MainThread ] Moved file to d:/tt\pdf\file.pdf
+2023-10-05 00:43:25,075 PID: 10940 [ MainThread ] Moved file to d:/tt\pdf\file0.pdf
+2023-10-05 00:43:25,092 PID: 10940 [ MainThread ] Moved file to d:/tt\pdf\file_—_kopiya.pdf
+2023-10-05 00:43:25,092 PID: 10940 [ MainThread ] Moved file to d:/tt\pdf\karlibrejs.pdf
+2023-10-05 00:43:25,114 PID: 10940 [ MainThread ] Moved file to d:/tt\pdf\puntik.pdf
+2023-10-05 00:43:25,159 PID: 10940 [ MainThread ] Moved file to d:/tt\pptx\file.pptx
+2023-10-05 00:43:25,193 PID: 10940 [ MainThread ] Moved file to d:/tt\xlsx\file.xlsx
+2023-10-05 00:43:25,242 PID: 10940 [ MainThread ] Moved file to d:/tt\jpeg\file.jpeg
+2023-10-05 00:43:25,292 PID: 10940 [ MainThread ] Moved file to d:/tt\png\file.png
+2023-10-05 00:43:25,306 PID: 10940 [ MainThread ] Moved file to d:/tt\png\luntik.png
+2023-10-05 00:43:25,323 PID: 10940 [ MainThread ] Moved file to d:/tt\png\Test.png
+2023-10-05 00:43:25,359 PID: 10940 [ MainThread ] Moved file to d:/tt\jpg\file0.jpg
+2023-10-05 00:43:25,376 PID: 10940 [ MainThread ] Moved file to d:/tt\jpg\Probil.jpg
+2023-10-05 00:43:25,393 PID: 10940 [ MainThread ] Moved file to d:/tt\jpg\Test.jpg
+2023-10-05 00:43:25,443 PID: 10940 [ MainThread ] Moved file to d:/tt\amr\file.amr
+2023-10-05 00:43:25,490 PID: 10940 [ MainThread ] Moved file to d:/tt\avi\file.avi
+2023-10-05 00:43:25,526 PID: 10940 [ MainThread ] Moved file to d:/tt\mkv\file.mkv
+2023-10-05 00:43:25,559 PID: 10940 [ MainThread ] Moved file to d:/tt\mov\file.mov
+2023-10-05 00:43:25,615 PID: 10940 [ MainThread ] Moved file to d:/tt\mp4\file.mp4
+2023-10-05 00:43:25,657 PID: 10940 [ MainThread ] Moved file to d:/tt\ogg\file.ogg
+2023-10-05 00:43:25,692 PID: 10940 [ MainThread ] Moved file to d:/tt\svg\file.svg
+2023-10-05 00:43:25,743 PID: 10940 [ MainThread ] Moved file to d:/tt\bat\folding_structure_1.bat
+2023-10-05 00:43:25,793 PID: 10940 [ MainThread ] Removed empty directory: d:/tt\archives
+2023-10-05 00:43:25,826 PID: 10940 [ MainThread ] Removed empty directory: d:/tt\Audio
+2023-10-05 00:43:25,843 PID: 10940 [ MainThread ] Removed empty directory: d:/tt\Documents
+2023-10-05 00:43:25,876 PID: 10940 [ MainThread ] Removed empty directory: d:/tt\Images
+2023-10-05 00:43:25,893 PID: 10940 [ MainThread ] Removed empty directory: d:/tt\Other
+2023-10-05 00:47:04,311 PID: 2800 [ MainThread ] Processed directory: d:/tt\Audio
+2023-10-05 00:47:04,333 PID: 2800 [ ThreadPoolExecutor-1_0 ] Processed file: d:/tt\file.mp3
+2023-10-05 00:47:04,336 PID: 2800 [ MainThread ] Processed directory: d:/tt\Documents
+2023-10-05 00:47:04,338 PID: 2800 [ ThreadPoolExecutor-1_1 ] Processed file: d:/tt\file.wav
+2023-10-05 00:47:04,347 PID: 2800 [ ThreadPoolExecutor-2_0 ] Processed file: d:/tt\ampersant.docx
+2023-10-05 00:47:04,347 PID: 2800 [ MainThread ] Processed directory: d:/tt\Images
+2023-10-05 00:47:04,358 PID: 2800 [ ThreadPoolExecutor-2_0 ] Processed file: d:/tt\damekon0.txt
+2023-10-05 00:47:04,358 PID: 2800 [ ThreadPoolExecutor-3_0 ] Processed file: d:/tt\file.jpeg
+2023-10-05 00:47:04,358 PID: 2800 [ ThreadPoolExecutor-2_0 ] Processed file: d:/tt\file.doc
+2023-10-05 00:47:04,358 PID: 2800 [ MainThread ] Processed directory: d:/tt\Other
+2023-10-05 00:47:04,358 PID: 2800 [ ThreadPoolExecutor-3_0 ] Processed file: d:/tt\file.png
+2023-10-05 00:47:04,358 PID: 2800 [ ThreadPoolExecutor-2_1 ] Processed file: d:/tt\file.pdf
+2023-10-05 00:47:04,358 PID: 2800 [ ThreadPoolExecutor-2_0 ] Processed file: d:/tt\file.pptx
+2023-10-05 00:47:04,374 PID: 2800 [ ThreadPoolExecutor-2_1 ] Processed file: d:/tt\file.txt
+2023-10-05 00:47:04,374 PID: 2800 [ ThreadPoolExecutor-3_0 ] Processed file: d:/tt\file0.jpg
+2023-10-05 00:47:04,374 PID: 2800 [ ThreadPoolExecutor-2_0 ] Processed file: d:/tt\file.xlsx
+2023-10-05 00:47:04,380 PID: 2800 [ MainThread ] Processed directory: d:/tt\archives
+2023-10-05 00:47:04,380 PID: 2800 [ ThreadPoolExecutor-2_1 ] Processed file: d:/tt\file0.pdf
+2023-10-05 00:47:04,380 PID: 2800 [ ThreadPoolExecutor-3_0 ] Processed file: d:/tt\luntik.png
+2023-10-05 00:47:04,389 PID: 2800 [ ThreadPoolExecutor-4_0 ] Processed file: d:/tt\file.amr
+2023-10-05 00:47:04,391 PID: 2800 [ ThreadPoolExecutor-2_0 ] Processed file: d:/tt\file0.txt
+2023-10-05 00:47:04,391 PID: 2800 [ ThreadPoolExecutor-2_1 ] Processed file: d:/tt\file_—_kopiya.pdf
+2023-10-05 00:47:04,391 PID: 2800 [ ThreadPoolExecutor-3_0 ] Processed file: d:/tt\Probil.jpg
+2023-10-05 00:47:04,391 PID: 2800 [ ThreadPoolExecutor-5_0 ] Processed file: d:/tt\damekon0.rar
+2023-10-05 00:47:04,391 PID: 2800 [ ThreadPoolExecutor-2_1 ] Processed file: d:/tt\karlibrejs.pdf
+2023-10-05 00:47:04,391 PID: 2800 [ ThreadPoolExecutor-4_0 ] Processed file: d:/tt\file.avi
+2023-10-05 00:47:04,391 PID: 2800 [ ThreadPoolExecutor-3_1 ] Processed file: d:/tt\Test.jpg
+2023-10-05 00:47:04,408 PID: 2800 [ ThreadPoolExecutor-4_1 ] Processed file: d:/tt\file.mkv
+2023-10-05 00:47:04,408 PID: 2800 [ ThreadPoolExecutor-2_0 ] Processed file: d:/tt\puntik.pdf
+2023-10-05 00:47:04,408 PID: 2800 [ ThreadPoolExecutor-5_0 ] Processed file: d:/tt\file.gz
+2023-10-05 00:47:04,408 PID: 2800 [ ThreadPoolExecutor-4_0 ] Processed file: d:/tt\file.mov
+2023-10-05 00:47:04,408 PID: 2800 [ ThreadPoolExecutor-5_1 ] Processed file: d:/tt\file.rar
+2023-10-05 00:47:04,408 PID: 2800 [ ThreadPoolExecutor-3_0 ] Processed file: d:/tt\Test.png
+2023-10-05 00:47:04,408 PID: 2800 [ ThreadPoolExecutor-4_2 ] Processed file: d:/tt\file.mp4
+2023-10-05 00:47:04,408 PID: 2800 [ ThreadPoolExecutor-5_2 ] Processed file: d:/tt\file.zip
+2023-10-05 00:47:04,425 PID: 2800 [ ThreadPoolExecutor-4_0 ] Processed file: d:/tt\file.ogg
+2023-10-05 00:47:04,425 PID: 2800 [ ThreadPoolExecutor-5_0 ] Processed file: d:/tt\file0.rar
+2023-10-05 00:47:04,425 PID: 2800 [ ThreadPoolExecutor-4_1 ] Processed file: d:/tt\file.svg
+2023-10-05 00:47:04,425 PID: 2800 [ ThreadPoolExecutor-4_0 ] Processed file: d:/tt\folding_structure_1.bat
+2023-10-05 00:47:04,425 PID: 2800 [ ThreadPoolExecutor-5_1 ] Processed file: d:/tt\file0.zip
+2023-10-05 00:47:04,425 PID: 2800 [ ThreadPoolExecutor-5_2 ] Processed file: d:/tt\file_—_kopiya.zip
+2023-10-05 00:48:16,868 PID: 12624 [ MainThread ] Processed directory: d:/tt\Audio
+2023-10-05 00:48:16,913 PID: 12624 [ ThreadPoolExecutor-1_0 ] Processed file: d:/tt\file.mp3
+2023-10-05 00:48:16,915 PID: 12624 [ MainThread ] Processed directory: d:/tt\Documents
+2023-10-05 00:48:16,915 PID: 12624 [ ThreadPoolExecutor-1_0 ] Processed file: d:/tt\file.wav
+2023-10-05 00:48:16,928 PID: 12624 [ MainThread ] Processed directory: d:/tt\Images
+2023-10-05 00:48:16,929 PID: 12624 [ ThreadPoolExecutor-2_0 ] Processed file: d:/tt\ampersant.docx
+2023-10-05 00:48:16,935 PID: 12624 [ ThreadPoolExecutor-2_0 ] Processed file: d:/tt\damekon0.txt
+2023-10-05 00:48:16,938 PID: 12624 [ ThreadPoolExecutor-3_0 ] Processed file: d:/tt\file.jpeg
+2023-10-05 00:48:16,940 PID: 12624 [ ThreadPoolExecutor-2_1 ] Processed file: d:/tt\file.doc
+2023-10-05 00:48:16,942 PID: 12624 [ ThreadPoolExecutor-3_0 ] Processed file: d:/tt\file.png
+2023-10-05 00:48:16,946 PID: 12624 [ MainThread ] Processed directory: d:/tt\Other
+2023-10-05 00:48:16,950 PID: 12624 [ ThreadPoolExecutor-2_0 ] Processed file: d:/tt\file.pdf
+2023-10-05 00:48:16,950 PID: 12624 [ ThreadPoolExecutor-3_0 ] Processed file: d:/tt\file0.jpg
+2023-10-05 00:48:16,951 PID: 12624 [ ThreadPoolExecutor-2_1 ] Processed file: d:/tt\file.pptx
+2023-10-05 00:48:16,957 PID: 12624 [ ThreadPoolExecutor-2_0 ] Processed file: d:/tt\file.txt
+2023-10-05 00:48:16,962 PID: 12624 [ MainThread ] Processed directory: d:/tt\archives
+2023-10-05 00:48:16,973 PID: 12624 [ ThreadPoolExecutor-4_0 ] Processed file: d:/tt\file.amr
+2023-10-05 00:48:16,979 PID: 12624 [ ThreadPoolExecutor-5_0 ] Processed file: d:/tt\damekon0.rar
+2023-10-05 00:48:16,980 PID: 12624 [ ThreadPoolExecutor-2_1 ] Processed file: d:/tt\file.xlsx
+2023-10-05 00:48:16,980 PID: 12624 [ ThreadPoolExecutor-3_1 ] Processed file: d:/tt\luntik.png
+2023-10-05 00:48:16,981 PID: 12624 [ ThreadPoolExecutor-4_0 ] Processed file: d:/tt\file.avi
+2023-10-05 00:48:16,991 PID: 12624 [ MainThread ] Processed directory: d:/tt\mp3
+2023-10-05 00:48:16,994 PID: 12624 [ ThreadPoolExecutor-4_0 ] Processed file: d:/tt\file.mkv
+2023-10-05 00:48:16,995 PID: 12624 [ ThreadPoolExecutor-2_2 ] Processed file: d:/tt\file0.pdf
+2023-10-05 00:48:16,996 PID: 12624 [ ThreadPoolExecutor-5_0 ] Processed file: d:/tt\file.gz
+2023-10-05 00:48:16,997 PID: 12624 [ ThreadPoolExecutor-3_0 ] Processed file: d:/tt\Probil.jpg
+2023-10-05 00:48:17,000 PID: 12624 [ ThreadPoolExecutor-5_1 ] Processed file: d:/tt\file.rar
+2023-10-05 00:48:17,001 PID: 12624 [ ThreadPoolExecutor-4_1 ] Processed file: d:/tt\file.mov
+2023-10-05 00:48:17,001 PID: 12624 [ ThreadPoolExecutor-3_1 ] Processed file: d:/tt\Test.jpg
+2023-10-05 00:48:17,002 PID: 12624 [ ThreadPoolExecutor-2_1 ] Processed file: d:/tt\file0.txt
+2023-10-05 00:48:17,003 PID: 12624 [ ThreadPoolExecutor-5_1 ] Processed file: d:/tt\file.zip
+2023-10-05 00:48:17,007 PID: 12624 [ ThreadPoolExecutor-2_2 ] Processed file: d:/tt\file_—_kopiya.pdf
+2023-10-05 00:48:17,008 PID: 12624 [ ThreadPoolExecutor-3_0 ] Processed file: d:/tt\Test.png
+2023-10-05 00:48:17,010 PID: 12624 [ ThreadPoolExecutor-2_0 ] Processed file: d:/tt\karlibrejs.pdf
+2023-10-05 00:48:17,010 PID: 12624 [ ThreadPoolExecutor-4_0 ] Processed file: d:/tt\file.mp4
+2023-10-05 00:48:17,011 PID: 12624 [ ThreadPoolExecutor-5_1 ] Processed file: d:/tt\file0.rar
+2023-10-05 00:48:17,013 PID: 12624 [ ThreadPoolExecutor-2_1 ] Processed file: d:/tt\puntik.pdf
+2023-10-05 00:48:17,014 PID: 12624 [ ThreadPoolExecutor-4_1 ] Processed file: d:/tt\file.ogg
+2023-10-05 00:48:17,015 PID: 12624 [ ThreadPoolExecutor-5_0 ] Processed file: d:/tt\file0.zip
+2023-10-05 00:48:17,018 PID: 12624 [ ThreadPoolExecutor-5_2 ] Processed file: d:/tt\file_—_kopiya.zip
+2023-10-05 00:48:17,018 PID: 12624 [ ThreadPoolExecutor-4_0 ] Processed file: d:/tt\file.svg
+2023-10-05 00:48:17,021 PID: 12624 [ ThreadPoolExecutor-4_1 ] Processed file: d:/tt\folding_structure_1.bat
+2023-10-05 00:48:48,623 PID: 11644 [ MainThread ] Processed directory: d:/tt\Documents
+2023-10-05 00:48:48,672 PID: 11644 [ ThreadPoolExecutor-1_0 ] Processed file: d:/tt\ampersant.docx
+2023-10-05 00:48:48,677 PID: 11644 [ MainThread ] Processed directory: d:/tt\Images
+2023-10-05 00:48:48,680 PID: 11644 [ ThreadPoolExecutor-1_0 ] Processed file: d:/tt\damekon0.txt
+2023-10-05 00:48:48,680 PID: 11644 [ ThreadPoolExecutor-1_1 ] Processed file: d:/tt\file.doc
+2023-10-05 00:48:48,690 PID: 11644 [ ThreadPoolExecutor-2_0 ] Processed file: d:/tt\file.jpeg
+2023-10-05 00:48:48,692 PID: 11644 [ MainThread ] Processed directory: d:/tt\Other
+2023-10-05 00:48:48,697 PID: 11644 [ ThreadPoolExecutor-1_0 ] Processed file: d:/tt\file.pdf
+2023-10-05 00:48:48,697 PID: 11644 [ ThreadPoolExecutor-2_0 ] Processed file: d:/tt\file.png
+2023-10-05 00:48:48,697 PID: 11644 [ ThreadPoolExecutor-3_0 ] Processed file: d:/tt\file.amr
+2023-10-05 00:48:48,697 PID: 11644 [ ThreadPoolExecutor-1_1 ] Processed file: d:/tt\file.pptx
+2023-10-05 00:48:48,708 PID: 11644 [ MainThread ] Processed directory: d:/tt\archives
+2023-10-05 00:48:48,708 PID: 11644 [ ThreadPoolExecutor-1_0 ] Processed file: d:/tt\file.txt
+2023-10-05 00:48:48,708 PID: 11644 [ ThreadPoolExecutor-3_0 ] Processed file: d:/tt\file.avi
+2023-10-05 00:48:48,708 PID: 11644 [ ThreadPoolExecutor-2_0 ] Processed file: d:/tt\file0.jpg
+2023-10-05 00:48:48,708 PID: 11644 [ ThreadPoolExecutor-1_1 ] Processed file: d:/tt\file.xlsx
+2023-10-05 00:48:48,723 PID: 11644 [ ThreadPoolExecutor-2_1 ] Processed file: d:/tt\luntik.png
+2023-10-05 00:48:48,725 PID: 11644 [ MainThread ] Processed directory: d:/tt\Audio
+2023-10-05 00:48:48,734 PID: 11644 [ ThreadPoolExecutor-4_0 ] Processed file: d:/tt\damekon0.rar
+2023-10-05 00:48:48,734 PID: 11644 [ ThreadPoolExecutor-3_0 ] Processed file: d:/tt\file.mkv
+2023-10-05 00:48:48,734 PID: 11644 [ ThreadPoolExecutor-1_0 ] Processed file: d:/tt\file0.pdf
+2023-10-05 00:48:48,734 PID: 11644 [ ThreadPoolExecutor-2_0 ] Processed file: d:/tt\Probil.jpg
+2023-10-05 00:48:48,742 PID: 11644 [ ThreadPoolExecutor-5_0 ] Processed file: d:/tt\file.mp3
+2023-10-05 00:48:48,742 PID: 11644 [ ThreadPoolExecutor-1_1 ] Processed file: d:/tt\file0.txt
+2023-10-05 00:48:48,742 PID: 11644 [ ThreadPoolExecutor-3_1 ] Processed file: d:/tt\file.mov
+2023-10-05 00:48:48,742 PID: 11644 [ ThreadPoolExecutor-2_1 ] Processed file: d:/tt\Test.jpg
+2023-10-05 00:48:48,742 PID: 11644 [ ThreadPoolExecutor-4_0 ] Processed file: d:/tt\file.gz
+2023-10-05 00:48:48,758 PID: 11644 [ ThreadPoolExecutor-5_1 ] Processed file: d:/tt\file.wav
+2023-10-05 00:48:48,758 PID: 11644 [ ThreadPoolExecutor-1_2 ] Processed file: d:/tt\file_—_kopiya.pdf
+2023-10-05 00:48:48,758 PID: 11644 [ ThreadPoolExecutor-4_1 ] Processed file: d:/tt\file.rar
+2023-10-05 00:48:48,758 PID: 11644 [ ThreadPoolExecutor-2_0 ] Processed file: d:/tt\Test.png
+2023-10-05 00:48:48,758 PID: 11644 [ ThreadPoolExecutor-3_0 ] Processed file: d:/tt\file.mp4
+2023-10-05 00:48:48,758 PID: 11644 [ ThreadPoolExecutor-1_0 ] Processed file: d:/tt\karlibrejs.pdf
+2023-10-05 00:48:48,758 PID: 11644 [ ThreadPoolExecutor-1_1 ] Processed file: d:/tt\puntik.pdf
+2023-10-05 00:48:48,758 PID: 11644 [ ThreadPoolExecutor-3_1 ] Processed file: d:/tt\file.ogg
+2023-10-05 00:48:48,773 PID: 11644 [ ThreadPoolExecutor-4_0 ] Processed file: d:/tt\file.zip
+2023-10-05 00:48:48,775 PID: 11644 [ ThreadPoolExecutor-3_2 ] Processed file: d:/tt\file.svg
+2023-10-05 00:48:48,776 PID: 11644 [ ThreadPoolExecutor-4_2 ] Processed file: d:/tt\file0.rar
+2023-10-05 00:48:48,777 PID: 11644 [ ThreadPoolExecutor-3_3 ] Processed file: d:/tt\folding_structure_1.bat
+2023-10-05 00:48:48,778 PID: 11644 [ ThreadPoolExecutor-4_1 ] Processed file: d:/tt\file0.zip
+2023-10-05 00:48:48,782 PID: 11644 [ ThreadPoolExecutor-4_3 ] Processed file: d:/tt\file_—_kopiya.zip
+2023-10-05 00:50:12,989 PID: 12468 [ MainThread ] Processed directory: d:/tt\Documents
+2023-10-05 00:50:13,011 PID: 12468 [ ThreadPoolExecutor-1_0 ] Processed file: d:/tt\ampersant.docx
+2023-10-05 00:50:13,012 PID: 12468 [ MainThread ] Processed directory: d:/tt\Images
+2023-10-05 00:50:13,014 PID: 12468 [ ThreadPoolExecutor-1_1 ] Processed file: d:/tt\damekon0.txt
+2023-10-05 00:50:13,018 PID: 12468 [ ThreadPoolExecutor-1_0 ] Processed file: d:/tt\file.doc
+2023-10-05 00:50:13,027 PID: 12468 [ ThreadPoolExecutor-2_0 ] Processed file: d:/tt\file.jpeg
+2023-10-05 00:50:13,027 PID: 12468 [ ThreadPoolExecutor-1_2 ] Processed file: d:/tt\file.pdf
+2023-10-05 00:50:13,027 PID: 12468 [ MainThread ] Processed directory: d:/tt\Other
+2023-10-05 00:50:13,039 PID: 12468 [ ThreadPoolExecutor-2_0 ] Processed file: d:/tt\file.png
+2023-10-05 00:50:13,041 PID: 12468 [ ThreadPoolExecutor-1_1 ] Processed file: d:/tt\file.pptx
+2023-10-05 00:50:13,041 PID: 12468 [ ThreadPoolExecutor-3_0 ] Processed file: d:/tt\file.amr
+2023-10-05 00:50:13,041 PID: 12468 [ ThreadPoolExecutor-1_2 ] Processed file: d:/tt\file.txt
+2023-10-05 00:50:13,041 PID: 12468 [ ThreadPoolExecutor-2_0 ] Processed file: d:/tt\file0.jpg
+2023-10-05 00:50:13,041 PID: 12468 [ MainThread ] Processed directory: d:/tt\archives
+2023-10-05 00:50:13,041 PID: 12468 [ ThreadPoolExecutor-2_0 ] Processed file: d:/tt\luntik.png
+2023-10-05 00:50:13,041 PID: 12468 [ ThreadPoolExecutor-3_0 ] Processed file: d:/tt\file.avi
+2023-10-05 00:50:13,058 PID: 12468 [ ThreadPoolExecutor-1_1 ] Processed file: d:/tt\file.xlsx
+2023-10-05 00:50:13,060 PID: 12468 [ ThreadPoolExecutor-3_0 ] Processed file: d:/tt\file.mkv
+2023-10-05 00:50:13,063 PID: 12468 [ ThreadPoolExecutor-4_0 ] Processed file: d:/tt\damekon0.rar
+2023-10-05 00:50:13,064 PID: 12468 [ ThreadPoolExecutor-1_2 ] Processed file: d:/tt\file0.pdf
+2023-10-05 00:50:13,065 PID: 12468 [ ThreadPoolExecutor-3_1 ] Processed file: d:/tt\file.mov
+2023-10-05 00:50:13,065 PID: 12468 [ ThreadPoolExecutor-2_1 ] Processed file: d:/tt\Probil.jpg
+2023-10-05 00:50:13,069 PID: 12468 [ MainThread ] Processed directory: d:/tt\Audio
+2023-10-05 00:50:13,070 PID: 12468 [ ThreadPoolExecutor-3_0 ] Processed file: d:/tt\file.mp4
+2023-10-05 00:50:13,071 PID: 12468 [ ThreadPoolExecutor-2_0 ] Processed file: d:/tt\Test.jpg
+2023-10-05 00:50:13,075 PID: 12468 [ ThreadPoolExecutor-4_0 ] Processed file: d:/tt\file.gz
+2023-10-05 00:50:13,076 PID: 12468 [ ThreadPoolExecutor-3_1 ] Processed file: d:/tt\file.ogg
+2023-10-05 00:50:13,076 PID: 12468 [ ThreadPoolExecutor-2_1 ] Processed file: d:/tt\Test.png
+2023-10-05 00:50:13,077 PID: 12468 [ ThreadPoolExecutor-1_1 ] Processed file: d:/tt\file0.txt
+2023-10-05 00:50:13,081 PID: 12468 [ ThreadPoolExecutor-4_1 ] Processed file: d:/tt\file.rar
+2023-10-05 00:50:13,081 PID: 12468 [ ThreadPoolExecutor-5_0 ] Processed file: d:/tt\file.mp3
+2023-10-05 00:50:13,090 PID: 12468 [ ThreadPoolExecutor-1_2 ] Processed file: d:/tt\file_—_kopiya.pdf
+2023-10-05 00:50:13,091 PID: 12468 [ ThreadPoolExecutor-3_0 ] Processed file: d:/tt\file.svg
+2023-10-05 00:50:13,091 PID: 12468 [ ThreadPoolExecutor-5_0 ] Processed file: d:/tt\file.wav
+2023-10-05 00:50:13,091 PID: 12468 [ ThreadPoolExecutor-4_0 ] Processed file: d:/tt\file.zip
+2023-10-05 00:50:13,091 PID: 12468 [ ThreadPoolExecutor-3_1 ] Processed file: d:/tt\folding_structure_1.bat
+2023-10-05 00:50:13,091 PID: 12468 [ MainThread ] Processed directory: d:/tt\docx
+2023-10-05 00:50:13,091 PID: 12468 [ ThreadPoolExecutor-1_0 ] Processed file: d:/tt\karlibrejs.pdf
+2023-10-05 00:50:13,091 PID: 12468 [ ThreadPoolExecutor-4_1 ] Processed file: d:/tt\file0.rar
+2023-10-05 00:50:13,091 PID: 12468 [ ThreadPoolExecutor-1_2 ] Processed file: d:/tt\puntik.pdf
+2023-10-05 00:50:13,108 PID: 12468 [ ThreadPoolExecutor-4_0 ] Processed file: d:/tt\file0.zip
+2023-10-05 00:50:13,108 PID: 12468 [ ThreadPoolExecutor-4_2 ] Processed file: d:/tt\file_—_kopiya.zip
+2023-10-05 00:50:13,125 PID: 12468 [ MainThread ] File not found: d:/tt\ampersant.docx
+2023-10-05 00:50:13,158 PID: 12468 [ MainThread ] File not found: d:/tt\damekon0.txt
+2023-10-05 00:50:13,160 PID: 12468 [ MainThread ] File not found: d:/tt\file.txt
+2023-10-05 00:50:13,162 PID: 12468 [ MainThread ] File not found: d:/tt\file0.txt
+2023-10-05 00:50:13,192 PID: 12468 [ MainThread ] File not found: d:/tt\file.doc
+2023-10-05 00:50:13,225 PID: 12468 [ MainThread ] File not found: d:/tt\file.jpeg
+2023-10-05 00:50:13,258 PID: 12468 [ MainThread ] File not found: d:/tt\file.pdf
+2023-10-05 00:50:13,258 PID: 12468 [ MainThread ] File not found: d:/tt\file0.pdf
+2023-10-05 00:50:13,258 PID: 12468 [ MainThread ] File not found: d:/tt\file_—_kopiya.pdf
+2023-10-05 00:50:13,258 PID: 12468 [ MainThread ] File not found: d:/tt\karlibrejs.pdf
+2023-10-05 00:50:13,258 PID: 12468 [ MainThread ] File not found: d:/tt\puntik.pdf
+2023-10-05 00:50:13,292 PID: 12468 [ MainThread ] File not found: d:/tt\file.png
+2023-10-05 00:50:13,292 PID: 12468 [ MainThread ] File not found: d:/tt\luntik.png
+2023-10-05 00:50:13,292 PID: 12468 [ MainThread ] File not found: d:/tt\Test.png
+2023-10-05 00:50:13,326 PID: 12468 [ MainThread ] File not found: d:/tt\file.pptx
+2023-10-05 00:50:13,359 PID: 12468 [ MainThread ] File not found: d:/tt\file.amr
+2023-10-05 00:50:13,392 PID: 12468 [ MainThread ] File not found: d:/tt\file0.jpg
+2023-10-05 00:50:13,409 PID: 12468 [ MainThread ] File not found: d:/tt\Probil.jpg
+2023-10-05 00:50:13,409 PID: 12468 [ MainThread ] File not found: d:/tt\Test.jpg
+2023-10-05 00:50:13,442 PID: 12468 [ MainThread ] File not found: d:/tt\file.avi
+2023-10-05 00:50:13,475 PID: 12468 [ MainThread ] File not found: d:/tt\file.xlsx
+2023-10-05 00:50:13,509 PID: 12468 [ MainThread ] File not found: d:/tt\file.mkv
+2023-10-05 00:50:13,543 PID: 12468 [ MainThread ] File not found: d:/tt\damekon0.rar
+2023-10-05 00:50:13,543 PID: 12468 [ MainThread ] File not found: d:/tt\file.rar
+2023-10-05 00:50:13,543 PID: 12468 [ MainThread ] File not found: d:/tt\file0.rar
+2023-10-05 00:50:13,576 PID: 12468 [ MainThread ] File not found: d:/tt\file.mov
+2023-10-05 00:50:13,609 PID: 12468 [ MainThread ] File not found: d:/tt\file.mp4
+2023-10-05 00:50:13,642 PID: 12468 [ MainThread ] File not found: d:/tt\file.gz
+2023-10-05 00:50:13,691 PID: 12468 [ MainThread ] File not found: d:/tt\file.ogg
+2023-10-05 00:50:13,725 PID: 12468 [ MainThread ] File not found: d:/tt\file.mp3
+2023-10-05 00:50:13,759 PID: 12468 [ MainThread ] File not found: d:/tt\file.svg
+2023-10-05 00:50:13,793 PID: 12468 [ MainThread ] File not found: d:/tt\file.wav
+2023-10-05 00:50:13,826 PID: 12468 [ MainThread ] File not found: d:/tt\file.zip
+2023-10-05 00:50:13,826 PID: 12468 [ MainThread ] File not found: d:/tt\file0.zip
+2023-10-05 00:50:13,826 PID: 12468 [ MainThread ] File not found: d:/tt\file_—_kopiya.zip
+2023-10-05 00:50:13,859 PID: 12468 [ MainThread ] File not found: d:/tt\folding_structure_1.bat
+2023-10-05 00:50:13,926 PID: 12468 [ MainThread ] Removed empty directory: d:/tt\docx
+2023-10-05 00:50:13,959 PID: 12468 [ MainThread ] Removed empty directory: d:/tt\txt
+2023-10-05 00:50:13,984 PID: 12468 [ MainThread ] Removed empty directory: d:/tt\doc
+2023-10-05 00:50:14,028 PID: 12468 [ MainThread ] Removed empty directory: d:/tt\jpeg
+2023-10-05 00:50:14,046 PID: 12468 [ MainThread ] Removed empty directory: d:/tt\pdf
+2023-10-05 00:50:14,079 PID: 12468 [ MainThread ] Removed empty directory: d:/tt\png
+2023-10-05 00:50:14,109 PID: 12468 [ MainThread ] Removed empty directory: d:/tt\pptx
+2023-10-05 00:50:14,135 PID: 12468 [ MainThread ] Removed empty directory: d:/tt\amr
+2023-10-05 00:50:14,159 PID: 12468 [ MainThread ] Removed empty directory: d:/tt\jpg
+2023-10-05 00:50:14,185 PID: 12468 [ MainThread ] Removed empty directory: d:/tt\avi
+2023-10-05 00:50:14,209 PID: 12468 [ MainThread ] Removed empty directory: d:/tt\xlsx
+2023-10-05 00:50:14,235 PID: 12468 [ MainThread ] Removed empty directory: d:/tt\mkv
+2023-10-05 00:50:14,259 PID: 12468 [ MainThread ] Removed empty directory: d:/tt\rar
+2023-10-05 00:50:14,283 PID: 12468 [ MainThread ] Removed empty directory: d:/tt\mov
+2023-10-05 00:50:14,309 PID: 12468 [ MainThread ] Removed empty directory: d:/tt\mp4
+2023-10-05 00:50:14,334 PID: 12468 [ MainThread ] Removed empty directory: d:/tt\gz
+2023-10-05 00:50:14,359 PID: 12468 [ MainThread ] Removed empty directory: d:/tt\ogg
+2023-10-05 00:50:14,385 PID: 12468 [ MainThread ] Removed empty directory: d:/tt\mp3
+2023-10-05 00:50:14,408 PID: 12468 [ MainThread ] Removed empty directory: d:/tt\svg
+2023-10-05 00:50:14,461 PID: 12468 [ MainThread ] Removed empty directory: d:/tt\wav
+2023-10-05 00:50:14,541 PID: 12468 [ MainThread ] Removed empty directory: d:/tt\zip
+2023-10-05 00:50:14,601 PID: 12468 [ MainThread ] Removed empty directory: d:/tt\bat
+2023-10-05 00:55:13,826 PID: 9172 [ ThreadPoolExecutor-0_0 ] Processed file: d:/tt\Documents\ampersant.docx
+2023-10-05 00:55:13,828 PID: 9172 [ ThreadPoolExecutor-0_1 ] Processed file: d:/tt\Documents\damekon0.txt
+2023-10-05 00:55:13,829 PID: 9172 [ ThreadPoolExecutor-0_2 ] Processed file: d:/tt\Documents\file.doc
+2023-10-05 00:55:13,829 PID: 9172 [ ThreadPoolExecutor-0_0 ] Processed file: d:/tt\Documents\file.pdf
+2023-10-05 00:55:13,829 PID: 9172 [ ThreadPoolExecutor-0_3 ] Processed file: d:/tt\Documents\file.pptx
+2023-10-05 00:55:13,832 PID: 9172 [ ThreadPoolExecutor-0_4 ] Processed file: d:/tt\Documents\file.txt
+2023-10-05 00:55:13,833 PID: 9172 [ ThreadPoolExecutor-0_5 ] Processed file: d:/tt\Documents\file.xlsx
+2023-10-05 00:55:13,833 PID: 9172 [ ThreadPoolExecutor-0_6 ] Processed file: d:/tt\Documents\file0.pdf
+2023-10-05 00:55:13,836 PID: 9172 [ ThreadPoolExecutor-0_7 ] Processed file: d:/tt\Documents\file0.txt
+2023-10-05 00:55:13,844 PID: 9172 [ ThreadPoolExecutor-0_1 ] Processed file: d:/tt\Documents\file_—_kopiya.pdf
+2023-10-05 00:55:13,856 PID: 9172 [ ThreadPoolExecutor-0_2 ] Processed file: d:/tt\Documents\karlibrejs.pdf
+2023-10-05 00:55:13,858 PID: 9172 [ ThreadPoolExecutor-0_0 ] Processed file: d:/tt\Documents\puntik.pdf
+2023-10-05 00:55:13,862 PID: 9172 [ ThreadPoolExecutor-0_3 ] Processed file: d:/tt\Images\file.jpeg
+2023-10-05 00:55:13,862 PID: 9172 [ ThreadPoolExecutor-0_4 ] Processed file: d:/tt\Images\file.png
+2023-10-05 00:55:13,862 PID: 9172 [ ThreadPoolExecutor-0_5 ] Processed file: d:/tt\Images\file0.jpg
+2023-10-05 00:55:13,866 PID: 9172 [ ThreadPoolExecutor-0_6 ] Processed file: d:/tt\Images\luntik.png
+2023-10-05 00:55:13,866 PID: 9172 [ ThreadPoolExecutor-0_7 ] Processed file: d:/tt\Images\Probil.jpg
+2023-10-05 00:55:13,870 PID: 9172 [ ThreadPoolExecutor-0_1 ] Processed file: d:/tt\Images\Test.jpg
+2023-10-05 00:55:13,870 PID: 9172 [ ThreadPoolExecutor-0_2 ] Processed file: d:/tt\Images\Test.png
+2023-10-05 00:55:13,873 PID: 9172 [ ThreadPoolExecutor-0_0 ] Processed file: d:/tt\Other\file.amr
+2023-10-05 00:55:13,874 PID: 9172 [ ThreadPoolExecutor-0_0 ] Processed file: d:/tt\Other\file.avi
+2023-10-05 00:55:13,874 PID: 9172 [ ThreadPoolExecutor-0_4 ] Processed file: d:/tt\Other\file.mkv
+2023-10-05 00:55:13,878 PID: 9172 [ ThreadPoolExecutor-0_5 ] Processed file: d:/tt\Other\file.mov
+2023-10-05 00:55:13,878 PID: 9172 [ ThreadPoolExecutor-0_6 ] Processed file: d:/tt\Other\file.mp4
+2023-10-05 00:55:13,878 PID: 9172 [ ThreadPoolExecutor-0_7 ] Processed file: d:/tt\Other\file.ogg
+2023-10-05 00:55:13,882 PID: 9172 [ ThreadPoolExecutor-0_1 ] Processed file: d:/tt\Other\file.svg
+2023-10-05 00:55:13,882 PID: 9172 [ ThreadPoolExecutor-0_2 ] Processed file: d:/tt\Other\folding_structure_1.bat
+2023-10-05 00:55:13,882 PID: 9172 [ ThreadPoolExecutor-0_3 ] Processed file: d:/tt\archives\damekon0.rar
+2023-10-05 00:55:13,886 PID: 9172 [ ThreadPoolExecutor-0_0 ] Processed file: d:/tt\archives\file.gz
+2023-10-05 00:55:13,890 PID: 9172 [ ThreadPoolExecutor-0_4 ] Processed file: d:/tt\archives\file.rar
+2023-10-05 00:55:13,892 PID: 9172 [ ThreadPoolExecutor-0_4 ] Processed file: d:/tt\archives\file.zip
+2023-10-05 00:55:13,892 PID: 9172 [ ThreadPoolExecutor-0_6 ] Processed file: d:/tt\archives\file0.rar
+2023-10-05 00:55:13,896 PID: 9172 [ ThreadPoolExecutor-0_6 ] Processed file: d:/tt\archives\file0.zip
+2023-10-05 00:55:13,896 PID: 9172 [ ThreadPoolExecutor-0_1 ] Processed file: d:/tt\archives\file_—_kopiya.zip
+2023-10-05 00:55:13,900 PID: 9172 [ ThreadPoolExecutor-0_2 ] Processed file: d:/tt\Audio\file.mp3
+2023-10-05 00:55:13,900 PID: 9172 [ ThreadPoolExecutor-0_3 ] Processed file: d:/tt\Audio\file.wav
+2023-10-05 00:55:13,950 PID: 9172 [ MainThread ] Moved file to d:/tt\docx\ampersant.docx
+2023-10-05 00:55:13,994 PID: 9172 [ MainThread ] Moved file to d:/tt\txt\damekon0.txt
+2023-10-05 00:55:14,005 PID: 9172 [ MainThread ] Moved file to d:/tt\txt\file.txt
+2023-10-05 00:55:14,014 PID: 9172 [ MainThread ] Moved file to d:/tt\txt\file0.txt
+2023-10-05 00:55:14,056 PID: 9172 [ MainThread ] Moved file to d:/tt\doc\file.doc
+2023-10-05 00:55:14,094 PID: 9172 [ MainThread ] Moved file to d:/tt\pdf\file.pdf
+2023-10-05 00:55:14,109 PID: 9172 [ MainThread ] Moved file to d:/tt\pdf\file0.pdf
+2023-10-05 00:55:14,123 PID: 9172 [ MainThread ] Moved file to d:/tt\pdf\file_—_kopiya.pdf
+2023-10-05 00:55:14,134 PID: 9172 [ MainThread ] Moved file to d:/tt\pdf\karlibrejs.pdf
+2023-10-05 00:55:14,154 PID: 9172 [ MainThread ] Moved file to d:/tt\pdf\puntik.pdf
+2023-10-05 00:55:14,195 PID: 9172 [ MainThread ] Moved file to d:/tt\pptx\file.pptx
+2023-10-05 00:55:14,242 PID: 9172 [ MainThread ] Moved file to d:/tt\xlsx\file.xlsx
+2023-10-05 00:55:14,285 PID: 9172 [ MainThread ] Moved file to d:/tt\jpeg\file.jpeg
+2023-10-05 00:55:14,329 PID: 9172 [ MainThread ] Moved file to d:/tt\png\file.png
+2023-10-05 00:55:14,344 PID: 9172 [ MainThread ] Moved file to d:/tt\png\luntik.png
+2023-10-05 00:55:14,373 PID: 9172 [ MainThread ] Moved file to d:/tt\png\Test.png
+2023-10-05 00:55:14,413 PID: 9172 [ MainThread ] Moved file to d:/tt\jpg\file0.jpg
+2023-10-05 00:55:14,428 PID: 9172 [ MainThread ] Moved file to d:/tt\jpg\Probil.jpg
+2023-10-05 00:55:14,444 PID: 9172 [ MainThread ] Moved file to d:/tt\jpg\Test.jpg
+2023-10-05 00:55:14,491 PID: 9172 [ MainThread ] Moved file to d:/tt\amr\file.amr
+2023-10-05 00:55:14,536 PID: 9172 [ MainThread ] Moved file to d:/tt\avi\file.avi
+2023-10-05 00:55:14,577 PID: 9172 [ MainThread ] Moved file to d:/tt\mkv\file.mkv
+2023-10-05 00:55:14,621 PID: 9172 [ MainThread ] Moved file to d:/tt\mov\file.mov
+2023-10-05 00:55:14,663 PID: 9172 [ MainThread ] Moved file to d:/tt\mp4\file.mp4
+2023-10-05 00:55:14,704 PID: 9172 [ MainThread ] Moved file to d:/tt\ogg\file.ogg
+2023-10-05 00:55:14,750 PID: 9172 [ MainThread ] Moved file to d:/tt\svg\file.svg
+2023-10-05 00:55:14,797 PID: 9172 [ MainThread ] Moved file to d:/tt\bat\folding_structure_1.bat
+2023-10-05 00:55:14,842 PID: 9172 [ MainThread ] Moved file to d:/tt\rar\damekon0.rar
+2023-10-05 00:55:14,856 PID: 9172 [ MainThread ] Moved file to d:/tt\rar\file.rar
+2023-10-05 00:55:14,867 PID: 9172 [ MainThread ] Moved file to d:/tt\rar\file0.rar
+2023-10-05 00:55:14,909 PID: 9172 [ MainThread ] Moved file to d:/tt\gz\file.gz
+2023-10-05 00:55:14,955 PID: 9172 [ MainThread ] Moved file to d:/tt\zip\file.zip
+2023-10-05 00:55:14,969 PID: 9172 [ MainThread ] Moved file to d:/tt\zip\file0.zip
+2023-10-05 00:55:14,978 PID: 9172 [ MainThread ] Moved file to d:/tt\zip\file_—_kopiya.zip
+2023-10-05 00:55:15,024 PID: 9172 [ MainThread ] Moved file to d:/tt\mp3\file.mp3
+2023-10-05 00:55:15,068 PID: 9172 [ MainThread ] Moved file to d:/tt\wav\file.wav
+2023-10-05 00:55:15,125 PID: 9172 [ MainThread ] Removed empty directory: d:/tt\Documents
+2023-10-05 00:55:15,149 PID: 9172 [ MainThread ] Removed empty directory: d:/tt\Images
+2023-10-05 00:55:15,175 PID: 9172 [ MainThread ] Removed empty directory: d:/tt\Other
+2023-10-05 00:55:15,199 PID: 9172 [ MainThread ] Removed empty directory: d:/tt\archives
+2023-10-05 00:55:15,228 PID: 9172 [ MainThread ] Removed empty directory: d:/tt\Audio
